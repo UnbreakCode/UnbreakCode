@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋</div>  
   
 
-- 🌱 I’m currently learning `NodeJS`, `Dart(Flutter)` and `C#`  
+- 🌱 I’m currently learning `NodeJS`, `Dart(Flutter)`, `C#` and `Python`  
   
 
 <br/>  
